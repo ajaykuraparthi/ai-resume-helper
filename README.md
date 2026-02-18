@@ -17,6 +17,9 @@ Perfect for students and professionals who apply to many roles and don’t want 
 - **One‑click job capture**  
   Detects and extracts job descriptions from LinkedIn and Naukri job pages. For other sites, you can paste the JD manually.
 
+  <img width="1904" height="921" alt="Screenshot 2026-02-18 181625" src="https://github.com/user-attachments/assets/7fed4317-7ff5-475a-8e24-b639545b8598" />
+
+
 - **Resume tailoring (no fake experience)**  
   Rewrites your existing resume to better match the target job description. It **does not invent** companies, roles, or projects.
 
@@ -25,6 +28,9 @@ Perfect for students and professionals who apply to many roles and don’t want 
 
 - **PDF & DOCX export**  
   Download the tailored resume in recruiter‑friendly formats.
+
+  <img width="1802" height="858" alt="Screenshot 2026-02-18 191406" src="https://github.com/user-attachments/assets/9db211d2-7657-4d2d-a95e-8e5b4c65ef4a" />
+
 
 - **Version history per job**  
   Quickly reload previous tailored versions. Great for A/B testing or re‑applying later.
