@@ -1,4 +1,4 @@
-# AI Resume Helper
+# AI Resume Helper 
 
 A Chrome extension that **captures any job post and tailors your resume to it in seconds**.
 
